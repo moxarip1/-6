@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Anime Bihi</string>
+    <string name="app_title_ar">أنمي بيهي</string>
+    <string name="mode_star6_active">وضع *6 نشط (fbcdn.net)</string>
+    <string name="mode_standard_active">الوضع العادي (Wi-Fi / *3)</string>
+    <string name="tab_home">الرئيسية</string>
+    <string name="tab_schedule">جدول المواعيد</string>
+    <string name="tab_explore">الاستكشاف</string>
+    <string name="tab_web_reader">قارئ المواقع</string>
+    <string name="tab_library">مكتبتي</string>
+    <string name="admin_studio_title">لوحة فيسبوك *6</string>
+    <string name="search_hint">ابحث عن أنمي، قصة، أو استوديو...</string>
+    <string name="skip_intro">+85s تخطي المقدمة</string>
+</resources>
